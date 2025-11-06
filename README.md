@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2257ae00-e6bf-45ad-aebf-97c99476b9c5" /><div align="center">
+
   # 🧑‍💻 Shaik Shahbaaz...
   
   <p>
