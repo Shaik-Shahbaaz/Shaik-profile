@@ -3,7 +3,7 @@
   # 🌐 Shaik Shahbaaz...
   
   <p>
-    A detail-oriented <strong>Python Developer</strong> and aspiring <strong>Data Analyst</strong>, dedicated to finding solutions and extracting meaningful insights from complex data sets.
+    I am Shaik Shahbaaz a focused and positive person who enjoys learning & growing everyday, dedicated to finding solutions and extracting meaningful insights from complex data sets.
   </p>
   
   <br>
